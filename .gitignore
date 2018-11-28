@@ -102,3 +102,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+Data/金庸-射雕英雄传.txt
+Data/金庸-神雕侠侣.txt
